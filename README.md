@@ -1,4 +1,4 @@
-This is just a simple personal music tracker I made for myself, I decided to mess around with GUI and see what I could make.
-Not a totally complete project, but it works well enough to suit my needs for now.
-I wasn't too familiar with Java GUI before making this project, and I'm satsified with how it turned out because the code isn't too complicated.
-Anytime I listen to a song on one of my very long playlists, I add it to the Music Tracker so I don't forget about it if I'm on my laptop at the time.
+- A simple personal project that I made to experiment with Java GUI for the first time
+- By running the MusicTracker, I can add songs to the tracker if I'm just casually listening to one of my long playlists or a random playlist. This way I can remember a song that I like instead of forgetting about it.
+- The UI is simple but works how I intended it to, and this was the first time I decided to experiment with GUI, so I'm satisfied with the result
+- It's not completely finished, but it works how I need it to for the time being
